@@ -25,4 +25,9 @@ See `prerequisites` for more information on training your own model.
 * You will need to download the entire images(data) / labels(annotations) folder  ( This runs into GB's and is hosted in anonymous serers )
 * You will need a powerful GPU and good healthy computer
 * You might have to run the training process for a few hours ( almost 20 + hours ) depending on the GPU that you have.
+* preferably an NVDIA GPU card 
+
+## Dependencies
+
+* see the requirements.txt file 
 
