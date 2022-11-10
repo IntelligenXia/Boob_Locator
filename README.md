@@ -30,7 +30,7 @@ See `prerequisites` for more information on training your own model.
 
 ## Dependencies
 
-* see the requirements.txt file 
+* this version runs on yolov5 ( so if you have yolov5 installed , simply replace the model name with this version )
 
 ## Updates : 
 * 07/10/2022 Start demo model / MVP 
